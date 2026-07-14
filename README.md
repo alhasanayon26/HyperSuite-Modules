@@ -1,8 +1,12 @@
-# EliteX HyperOS Enhancement
+# EliteX HyperOS Enhancement Suite
 
-An all-in-one collection of systemless enhancement modules designed for **HyperOS 2 (Android 15)** and **HyperOS 3 (Android 16)**. Built for **Xiaomi, Redmi, and POCO devices**, EliteX HyperOS Enhancement combines premium visual improvements, hidden system features, performance optimizations, and quality-of-life enhancements into a single package.
+> **The complete all-in-one enhancement package for HyperOS 2 & HyperOS 3.**
 
-Instead of installing multiple individual modules, EliteX brings together the most useful HyperOS modifications in one lightweight, easy-to-install solution. Whether you're running HyperOS 2 or HyperOS 3, this project aims to provide a smoother, cleaner, and more feature-rich experience while maintaining excellent system stability.
+EliteX HyperOS Enhancement Suite combines the best features from both **EliteX HyperOS 2 Enhancement** and **EliteX HyperOS 3 Enhancement** into a single repository. Designed for Xiaomi, Redmi, and POCO devices, this project aims to unlock premium HyperOS features, improve performance, enhance the user interface, and provide a flagship-like software experience while remaining lightweight, stable, and easy to install.
+
+Whether you're running **HyperOS 2 (Android 15)** or **HyperOS 3 (Android 16)**, this repository provides dedicated enhancement modules tailored for each version. Every module is fully compatible with **Magisk**, **KernelSU**, and **KernelSU Next**, ensuring seamless, systemless installation and easy removal.
+
+The project focuses on bringing premium HyperOS features normally reserved for flagship devices to a wider range of Xiaomi devices while maintaining stability, performance, and a near-stock user experience.
 
 ---
 
@@ -34,6 +38,7 @@ Instead of installing multiple individual modules, EliteX brings together the mo
 - Android 15
 - Optimized for HyperOS 2 framework
 - Includes HyperOS 2 compatible features and tweaks
+- **Repository:** https://github.com/alhasanayon26/EliteX-HyperOS2-Enhancement
 
 ---
 
@@ -44,6 +49,7 @@ Instead of installing multiple individual modules, EliteX brings together the mo
 - Updated framework compatibility
 - Optimized specifically for HyperOS 3
 - Includes HyperOS 3 compatible features and enhancements
+- **Repository:** https://github.com/alhasanayon26/EliteX-HyperOS3-Enhancement
 
 ---
 
